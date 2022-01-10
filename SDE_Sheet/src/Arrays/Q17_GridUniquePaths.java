@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class GridUniquePaths {
+public class Q17_GridUniquePaths {
 
 	public static void main(String[] args) {
 

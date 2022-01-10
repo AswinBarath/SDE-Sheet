@@ -1,8 +1,8 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.Scanner;
 
-public class PowerOfN {
+public class Q14_PowerOfN {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,10 +1,10 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class MergeIntervals {
+public class Q5_MergeIntervals {
 
 	public static void main(String[] args) {
 

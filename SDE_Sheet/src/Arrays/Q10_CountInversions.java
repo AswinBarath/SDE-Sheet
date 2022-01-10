@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class CountInversions {
+public class Q10_CountInversions {
 
 	// merge() merges two sorted arrays and returns inversion count in the arrays
 	public static int merge(int[] arr, int[] temp, int left, int mid, int right) {

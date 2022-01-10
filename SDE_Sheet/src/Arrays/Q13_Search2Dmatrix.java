@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class Search2Dmatrix {
+public class Q13_Search2Dmatrix {
 
 	public static void main(String[] args) {
 

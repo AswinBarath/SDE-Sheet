@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class RotateMatrix {
+public class Q12_RotateMatrix {
 
 	public static void main(String[] args) {
 

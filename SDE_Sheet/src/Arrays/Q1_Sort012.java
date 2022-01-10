@@ -1,5 +1,4 @@
-
-
+package Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -34,7 +33,7 @@ public class Q1_Sort012 {
 	}
 
 	public void sortColorsBetter(int[] nums) {
-		int low = 0, mid = 0, high = nums.length - 1;
+		int high = nums.length;
 		int count0 = 0, count1 = 0, count2 = 0;
 		for (int i = 0; i < high; i++) {
 			switch (nums[i]) {
@@ -70,8 +69,13 @@ public class Q1_Sort012 {
 	}
 
 	public void sortColorsBrute(int[] nums) {
-		// code
 		Arrays.sort(nums);
+	}
+	
+	public void printNums(int[] nums) {
+		for(int i=0; i<nums.length; i++) {
+			System.out.println(nums[i]);
+		}
 	}
 
 	public static void main(String[] args) {
@@ -84,9 +88,11 @@ public class Q1_Sort012 {
 		}
 		input.close();
 		Q1_Sort012 obj = new Q1_Sort012();
-		obj.sortColorsOptimal(nums);
-		obj.sortColorsBetter(nums);
-		obj.sortColorsBrute(nums);
+		obj.sortColorsOptimal(nums); // works
+//		obj.sortColorsBetter(nums); // works
+//		obj.sortColorsBrute(nums); // works
+
+		obj.printNums(nums);
 	}
 
 }

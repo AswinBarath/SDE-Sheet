@@ -1,8 +1,8 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.ArrayList;
 
-public class ReversePairs {
+public class Q18_ReversePairs {
 
 	public static void main(String[] args) {
 		int[] arr = { 2, 4, 3, 5, 1 };

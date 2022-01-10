@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class NextPermutation {
+public class Q9_NextPermutation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

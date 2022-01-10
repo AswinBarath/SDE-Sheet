@@ -1,8 +1,8 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.Scanner;
 
-public class MergeSortedArrays {
+public class Q3_MergeSortedArrays {
 
 	public static void main(String[] args) {
 

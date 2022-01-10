@@ -1,6 +1,6 @@
-// package sde_sheet;
+package Arrays;
 
-public class SetMatrixZeros {
+public class Q7_SetMatrixZeros {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

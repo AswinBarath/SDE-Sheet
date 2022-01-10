@@ -1,9 +1,9 @@
-// package sde_sheet;
+package Arrays;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class FindMissAndRepeatNum {
+public class Q2_FindMissAndRepeatNum {
 
 	static int[] findTwoElement(int arr[], int n) {
 		int x = 0;

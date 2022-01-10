@@ -1,10 +1,10 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PascalsTriangle {
+public class Q8_PascalsTriangle {
 
 	public static void main(String[] args) {
 //		System.out.println(generateCurr(5, 3));

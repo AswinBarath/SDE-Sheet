@@ -1,8 +1,8 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.Scanner;
 
-public class MaximumSubarraySum {
+public class Q4_MaximumSubarraySum {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

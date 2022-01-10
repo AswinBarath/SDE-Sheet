@@ -1,9 +1,9 @@
-// package sde_sheet;
+package Arrays;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MajorityElement_II {
+public class Q16_MajorityElement_II {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

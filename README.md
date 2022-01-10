@@ -29,6 +29,192 @@ Topicwise: Problem - Pattern - Optimization
 ```
 - Problem Solving is more important than note making, so don't stress too much in notes/documentation
 
-### Why SDE Sheet?
+## Why SDE Sheet?
 
 - Solving 150 - 200 DS ALGO Questions on leetcode gets your problem solving skills up 💹
+
+## SDE Sheet Problems
+
+| ✅/❌ | No. | Problem | Pattern(s) | Opimization |
+| - | - | - | - | - |
+| **Arrays** |
+| ✅ | 1 | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | 
+| ✅ | 2 | Repeat and Missing Number | 
+| ✅ | 3 | Merge two sorted Arrays without extra space | 
+| ✅ | 4 | Kadanes Algorithm | 
+| ✅ | 5 | Merge Overlapping Subintervals | 
+| ✅ | 6 | Find the duplicate in an array of N+1 integers | 
+| ✅ | 7 | Set Matrix Zeroes | 
+| ✅ | 8 | Pascal's Triangle | 
+| ✅ | 9 | Next Permutation | 
+| ✅ | 10 | Count Inversions in an array | 
+| ✅ | 11 | Best Time to Buy and Sell Stock | 
+| ✅ | 12 | Rotate Image | 
+| ✅	| 13 | Search a 2D Matrix | 
+| ✅	| 14 | Pow(x, n) | 
+| ✅	| 15 | Majority Element | 
+| ✅ | 16 | Majority Element II | 
+| ✅ | 17 | Unique Paths | 
+| ✅ | 18 | Reverse Pairs | 
+| **Hashmaps** |
+| ✅	| 19 | Two Sum |
+| ✅	| 20 | 4Sum | 
+| ✅	| 21 | Longest Consecutive Sequence | 
+| ✅	| 22 | Largest subarray with 0 sum | 
+| ✅	| 23 | Count the number of subarrays having a given XOR
+| ❌	| 24 | Longest Substring Without Repeating Characters
+| **Linked lists** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **2 pointers** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Greedy algorithms** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Recursion** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Backtracking** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Binary Search** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Bit Manipulation** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Stacks and Queues** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Miscellaneous** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Strings** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Binary Trees** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Binary Search Trees** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Mixed Questions** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Graphs** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| **Dynamic Programming** |
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+| ❌	|  | 
+
+---
