@@ -1,4 +1,4 @@
-package sde_sheet;
+package Linked_lists;
 
 import java.util.Scanner;
 
@@ -56,7 +56,7 @@ class Node {
 	}
 }
 
-public class FlatteningLL {
+public class Q36_FlatteningLL {
 	Node head;
 
 	void printList(Node node) {
@@ -71,7 +71,7 @@ public class FlatteningLL {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
-		FlatteningLL list = new FlatteningLL();
+		Q36_FlatteningLL list = new Q36_FlatteningLL();
 		while (t > 0) {
 			int N = sc.nextInt();
 			int arr[] = new int[N];

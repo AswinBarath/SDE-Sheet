@@ -1,7 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
+
+import Linked_lists.templates.LinkedList;
 
 class RecursiveSolution {
 	public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
@@ -97,7 +98,7 @@ class BruteForceSolution {
 	}
 }
 
-public class MergeTwoSortedLists {
+public class Q27_MergeTwoSortedLists {
 
 	public static void main(String[] args) {
 

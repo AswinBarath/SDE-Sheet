@@ -1,9 +1,10 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class ReverseKGroup {
+import Linked_lists.templates.LinkedList;
+
+public class Q33_ReverseKGroup {
 
 	public static ListNode reverseKGroup(ListNode head, int k) {
 		if (head == null || k == 1)

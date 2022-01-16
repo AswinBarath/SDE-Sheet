@@ -1,9 +1,10 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class MiddleOfLL {
+import Linked_lists.templates.LinkedList;
+
+public class Q26_MiddleOfLL {
 
 	public ListNode middleNode(ListNode head) {
 		ListNode slow = head;
@@ -29,7 +30,7 @@ public class MiddleOfLL {
 		// Print the original LinkedList
 		listOp.printList(head);
 
-		MiddleOfLL mid = new MiddleOfLL();
+		Q26_MiddleOfLL mid = new Q26_MiddleOfLL();
 
 		ListNode middle = mid.middleNode(head);
 

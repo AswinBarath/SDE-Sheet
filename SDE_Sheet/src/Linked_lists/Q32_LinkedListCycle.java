@@ -1,9 +1,10 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class LinkedListCycle {
+import Linked_lists.templates.LinkedList;
+
+public class Q32_LinkedListCycle {
 
 	public static boolean hasCycle(ListNode head) {
 		if (head == null || head.next == null) {

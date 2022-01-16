@@ -1,4 +1,4 @@
-package sde_sheet;
+package Greedy_algorithm;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -30,7 +30,7 @@ class meetingComparator implements Comparator<meeting> {
 	}
 }
 
-public class NmeetingsInOneRoom {
+public class Q43_NmeetingsInOneRoom {
 
 	public static int nMeetings(int[] start, int[] end, int n) {
 		ArrayList<meeting> meet = new ArrayList<>();

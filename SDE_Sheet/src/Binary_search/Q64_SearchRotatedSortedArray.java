@@ -1,10 +1,10 @@
-package sde_sheet;
+package Binary_search;
 
 // 1. Rotated Binary Search: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 // 2. RBS with Duplicates: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 
-public class SearchRotatedSortedArray {
+public class Q64_SearchRotatedSortedArray {
 	public static void main(String[] args) {
 		int[] arr = { 4, 5, 6, 7, 0, 1, 2 };
 		System.out.println(search(arr, 1));

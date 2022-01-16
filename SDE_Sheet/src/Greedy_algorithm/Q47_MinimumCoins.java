@@ -1,8 +1,8 @@
-package sde_sheet;
+package Greedy_algorithm;
 
 import java.util.Vector;
 
-public class MinimumCoins {
+public class Q47_MinimumCoins {
 
 	public static void findMinCoins(int V) {
 		Vector<Integer> ans = new Vector<>();

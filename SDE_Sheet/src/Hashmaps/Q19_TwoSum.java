@@ -1,9 +1,9 @@
-package sde_sheet;
+package Hashmaps;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum {
+public class Q19_TwoSum {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
-package sde_sheet;
+package Two_pointers;
 
-public class MaxConsecutiveOnes {
+public class Q42_MaxConsecutiveOnes {
 
 	public static int findMaxConsecutiveOnes(int[] nums) {
 		int count = 0;

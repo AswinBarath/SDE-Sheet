@@ -1,9 +1,9 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.LinkedList;
+import Linked_lists.templates.ListNode;
 
-public class ReverseLL {
+public class Q25_ReverseLL {
 
 	public static ListNode reverseList(ListNode head) {
 		ListNode newHead = null;

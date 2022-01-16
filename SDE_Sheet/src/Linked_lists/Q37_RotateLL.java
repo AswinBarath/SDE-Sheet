@@ -1,9 +1,10 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class RotateLL {
+import Linked_lists.templates.LinkedList;
+
+public class Q37_RotateLL {
 
 	public static ListNode rotateRight(ListNode head, int k) {
 

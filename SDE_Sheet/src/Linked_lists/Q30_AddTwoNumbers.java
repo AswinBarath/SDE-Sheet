@@ -1,7 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
+
+import Linked_lists.templates.LinkedList;
 
 class AddTwoNumbersSolution {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -77,7 +78,7 @@ class AddTwoNumbersSolution {
 	}
 }
 
-public class AddTwoNumbers {
+public class Q30_AddTwoNumbers {
 
 	public static void main(String[] args) {
 

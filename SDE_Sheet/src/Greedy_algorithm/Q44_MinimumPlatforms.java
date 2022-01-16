@@ -1,9 +1,9 @@
-package sde_sheet;
+package Greedy_algorithm;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class MinimumPlatforms {
+public class Q44_MinimumPlatforms {
 
 	public static int findPlatform(int[] arr, int[] dep, int n) {
 		Arrays.sort(arr);

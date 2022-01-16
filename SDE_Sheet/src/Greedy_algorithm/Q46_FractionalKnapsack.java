@@ -1,4 +1,4 @@
-package sde_sheet;
+package Greedy_algorithm;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -29,7 +29,7 @@ class ItemComparator implements Comparator<Item> {
 	}
 }
 
-public class FractionalKnapsack {
+public class Q46_FractionalKnapsack {
 
 	public static double fractionalKnapsack(int W, Item arr[], int n) {
 		Arrays.sort(arr, new ItemComparator());

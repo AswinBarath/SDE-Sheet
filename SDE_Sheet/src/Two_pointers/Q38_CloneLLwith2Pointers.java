@@ -1,6 +1,6 @@
-package sde_sheet;
+package Two_pointers;
 
-public class CloneLLwith2Pointers {
+public class Q38_CloneLLwith2Pointers {
 
 	public static NodeWith2Pointers copyRandomList(NodeWith2Pointers head) {
 		NodeWith2Pointers iter = head;

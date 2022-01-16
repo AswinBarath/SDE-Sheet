@@ -1,7 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
+
+import Linked_lists.templates.LinkedList;
 
 class DeleteNodeinaLinkedListSolution {
 	public void deleteNode(ListNode node) {
@@ -13,7 +14,7 @@ class DeleteNodeinaLinkedListSolution {
 	}
 }
 
-public class DeleteNodeinaLinkedList {
+public class Q29_DeleteNodeinaLinkedList {
 
 	public static void main(String[] args) {
 		ListNode head = null;

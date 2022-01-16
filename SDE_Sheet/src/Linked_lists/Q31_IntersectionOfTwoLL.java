@@ -1,8 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class IntersectionOfTwoLL {
+public class Q31_IntersectionOfTwoLL {
 
 	public ListNode interectionOfTwoLL(ListNode head1, ListNode head2) {
 
@@ -56,7 +56,7 @@ public class IntersectionOfTwoLL {
 		System.out.println("LL 2");
 		listOp.printList(head2);
 
-		IntersectionOfTwoLL point = new IntersectionOfTwoLL();
+		Q31_IntersectionOfTwoLL point = new Q31_IntersectionOfTwoLL();
 
 		ListNode intersection = point.interectionOfTwoLL(head1, head2);
 

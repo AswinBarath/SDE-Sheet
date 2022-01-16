@@ -1,9 +1,10 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.LinkedList;
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class PalindromeLL {
+import Linked_lists.templates.LinkedList;
+
+public class Q34_PalindromeLL {
 
 	public static boolean isPalindrome(ListNode head) {
 		if (head == null || head.next == null)

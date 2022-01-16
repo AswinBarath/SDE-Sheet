@@ -1,8 +1,8 @@
-package sde_sheet;
+package Hashmaps;
 
 import java.util.HashMap;
 
-public class Largest_0_Sum_Subarray {
+public class Q22_Largest_0_Sum_Subarray {
 
 	public static void main(String[] args) {
 		int[] arr = { -1, 1, 3, 2, -2, -8, 1, 7, 10, 23 };

@@ -1,4 +1,4 @@
-package sde_sheet;
+package Greedy_algorithm;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,7 +17,7 @@ class Job {
 	}
 }
 
-public class JobSequencing {
+public class Q45_JobSequencing {
 
 	public static int[] jobScheduling(Job arr[], int n) {
 

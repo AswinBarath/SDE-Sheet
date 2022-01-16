@@ -1,10 +1,10 @@
-package sde_sheet;
+package Two_pointers;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ThreeSum {
+public class Q39_ThreeSum {
 
 	public static List<List<Integer>> threeSum(int[] nums) {
 

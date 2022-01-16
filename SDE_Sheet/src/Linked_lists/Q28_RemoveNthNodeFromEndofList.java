@@ -1,8 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-import templates.LinkedList;
+import Linked_lists.templates.LinkedList;
 
 class RemoveNthFromEnd {
 
@@ -68,7 +68,7 @@ class RemoveNthFromEnd {
 	}
 }
 
-public class RemoveNthNodeFromEndofList {
+public class Q28_RemoveNthNodeFromEndofList {
 
 	public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package sde_sheet;
+package Hashmaps;
 
 import java.util.HashMap;
 
-public class CountXORsubarrays {
+public class Q23_CountXORsubarrays {
 
 	public static void main(String[] args) {
 

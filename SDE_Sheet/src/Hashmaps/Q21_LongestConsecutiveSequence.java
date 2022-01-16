@@ -1,9 +1,9 @@
-package sde_sheet;
+package Hashmaps;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class LongestConsecutiveSequence {
+public class Q21_LongestConsecutiveSequence {
 
 	public static void main(String[] args) {
 		int arr[] = { 0, 3, 7, 2, 5, 8, 4, 6, 0, 1 };

@@ -1,6 +1,6 @@
-package sde_sheet;
+package Two_pointers;
 
-public class RemoveDuplicateFromSortedarray {
+public class Q41_RemoveDuplicateFromSortedarray {
 
 	public static int removeDuplicates(int[] nums) {
 

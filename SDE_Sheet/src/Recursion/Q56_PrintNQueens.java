@@ -1,6 +1,6 @@
-package sde_sheet;
+package Recursion;
 
-public class PrintNQueens {
+public class Q56_PrintNQueens {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

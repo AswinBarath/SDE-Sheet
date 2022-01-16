@@ -1,8 +1,8 @@
-package sde_sheet;
+package Linked_lists;
 
-import templates.ListNode;
+import Linked_lists.templates.ListNode;
 
-public class FindStartingPointInLLloop {
+public class Q35_FindStartingPointInLLloop {
 
 	public static ListNode detectCycle(ListNode head) {
 

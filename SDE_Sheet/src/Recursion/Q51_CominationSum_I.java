@@ -1,9 +1,9 @@
-package sde_sheet;
+package Recursion;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CominationSum_I {
+public class Q51_CominationSum_I {
 
 	public static void main(String[] args) {
 		int[] candidates = { 2, 3, 6, 7 };
